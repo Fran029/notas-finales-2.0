@@ -1,0 +1,46 @@
+
+h1 {
+    padding: 40px 5px;
+
+
+}
+
+#nombreDiv {  margin-bottom: 10px;
+
+
+}
+   
+
+
+  div {
+      font-size: 17px;
+      padding: 30px 5px ;
+      text-align: left
+    
+
+}
+/*detalle de la tabla*/
+
+.table col {    
+    margin: 10px 5px;
+    border: 2px;
+    border-style: solid;
+    
+
+
+   }
+
+ table th{  
+          color: black;
+          font-weight: 500 ;
+          font-size: 20px;
+          border: 2px;
+          border-style: solid;
+          
+ } 
+
+
+
+
+
+
